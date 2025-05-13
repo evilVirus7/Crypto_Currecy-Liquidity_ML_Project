@@ -41,7 +41,7 @@ This project aims to predict the **liquidity score** of cryptocurrencies using m
 
    **🚀 Render Link**
 
-    - Go to → 
+    - Go to → https://crypto-currecy-liquidity-ml-project.onrender.com
 
 
 2. **Install dependencies**  
